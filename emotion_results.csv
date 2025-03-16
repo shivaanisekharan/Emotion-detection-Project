@@ -1,0 +1,9 @@
+Post,Cleaned_Post,VADER Sentiment,Emotion
+I'm feeling amazing today! Everything is perfect.,im feeling amazing today everything is perfect,Positive,Joy
+"I'm so stressed and anxious, nothing feels right.",im so stressed and anxious nothing feels right,Negative,Neutral
+"Life is tough, but I'm pushing through.",life is tough but im pushing through,Negative,Sadness
+I feel empty and lost all the time...,i feel empty and lost all the time,Negative,Neutral
+"Wow, today was absolutely fantastic!",wow today was absolutely fantastic,Positive,Neutral
+"I hate everything, I can’t stand this pain anymore.",i hate everything i cant stand this pain anymore,Negative,Sadness
+"Today was decent, not great but manageable.",today was decent not great but manageable,Negative,Neutral
+I'm exhausted... nothing makes sense these days.,im exhausted nothing makes sense these days,Negative,Sadness
